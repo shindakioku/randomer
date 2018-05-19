@@ -9,7 +9,7 @@ Created from templates made available by Stagehand under a BSD-style
 
 A simple usage example:
 ```dart
-import 'package:randomer/random.dart';
+import 'package:randomer/randomer.dart';
 
 main() {
   print(random([true, false]));
@@ -26,7 +26,7 @@ main() {
     
 Also, you can use the object for calling functions:
 ```dart
-import 'package:randomer/random.dart';
+import 'package:randomer/randomer.dart';
 
 main() {
   print(randomer.random([true, false]));
