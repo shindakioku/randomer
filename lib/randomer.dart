@@ -1,7 +1,7 @@
-library faker;
+library randomer;
 
-import 'src/randomer.dart' as functions;
-export 'src/randomer.dart';
+import 'src/random.dart' as functions;
+export 'src/random.dart';
 
 const randomer = const Randomer();
 

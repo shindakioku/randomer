@@ -1,4 +1,4 @@
-import 'package:randomer/random.dart';
+import 'package:randomer/randomer.dart';
 
 main() {
   print(random([true, false]));
